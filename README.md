@@ -34,3 +34,6 @@ Potentially developed into a more fleshed-out investigative sim with puzzles may
 
 # Created by: The Underachievers
 Adam Wade(Menus, endings, and overall design), Skyler Halfhill(Music and sound), Ethan Hatchett(Writing), and Daniyaal Hussain(Level Design and systems design). Everybody did some programming as nobody specialized in that
+
+# Extra Note
+With the current state of the repository, you will find different copies of the unity packages and numerous assets. This was the result of us struggling to share and import assets.
