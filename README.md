@@ -1,4 +1,4 @@
-# Project Name
+# Game Jam
 MSCH-C220 Game Jam, December 2024
 
 ## Theme
